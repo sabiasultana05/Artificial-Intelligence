@@ -1,0 +1,27 @@
+11 A
+A D C B
+D E F
+B G H I
+C J K
+E L M
+F N O
+G P Q
+H R S
+I T U
+J V W
+K X Y
+14
+L 4
+M 3
+N 6
+O 2
+P 1
+Q 2
+R 9
+S 5
+T 3
+U 1
+V 4
+W 5
+X 7
+Y 5
